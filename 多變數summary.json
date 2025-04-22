@@ -1,0 +1,167 @@
+{
+  "detailed_comparison_15_65": {
+    "description": "詳細比較彰化縣和全台灣在 15-65 歲各年齡層的未婚、有偶、離婚人數和比例的差異。",
+    "age_group_comparisons": [
+      {
+        "age_group": "15-19歲",
+        "unmarried_diff": {
+          "male_proportion_diff": 0.2258527,
+          "female_proportion_diff": 0.272886
+        },
+        "married_diff": {
+          "male_proportion_diff": -5.21e-06,
+          "female_proportion_diff": -1.438e-05
+        },
+        "divorced_diff": {
+          "male_proportion_diff": 1.2e-06,
+          "female_proportion_diff": 3.43e-06
+        },
+        "note": "15-19歲年齡層，全台灣的未婚比例顯著高於彰化縣。有偶和離婚比例兩地皆極低，差異不大。"
+      },
+      {
+        "age_group": "20-24歲",
+        "unmarried_diff": {
+          "male_proportion_diff": 0.002873,
+          "female_proportion_diff": 0.004184
+        },
+        "married_diff": {
+          "male_proportion_diff": 0.000247,
+          "female_proportion_diff": 0.000522
+        },
+        "divorced_diff": {
+          "male_proportion_diff": 0.000109,
+          "female_proportion_diff": 0.000169
+        },
+        "note": "20-24歲年齡層，彰化縣的未婚和有偶比例略高於全台灣，離婚比例也略高。"
+      },
+      {
+        "age_group": "25-29歲",
+        "unmarried_diff": {
+          "male_proportion_diff": 0.003188,
+          "female_proportion_diff": 0.004156
+        },
+        "married_diff": {
+          "male_proportion_diff": -0.002043,
+          "female_proportion_diff": -0.002149
+        },
+        "divorced_diff": {
+          "male_proportion_diff": -0.001145,
+          "female_proportion_diff": -0.002007
+        },
+        "note": "25-29歲年齡層，彰化縣的未婚比例略高於全台灣，但有偶和離婚比例則略低。"
+      },
+      {
+        "age_group": "30-34歲",
+        "unmarried_diff": {
+          "male_proportion_diff": 0.001505,
+          "female_proportion_diff": 0.001715
+        },
+        "married_diff": {
+          "male_proportion_diff": -0.004628,
+          "female_proportion_diff": -0.004395
+        },
+        "divorced_diff": {
+          "male_proportion_diff": 0.003123,
+          "female_proportion_diff": 0.00268
+        },
+        "note": "30-34歲年齡層，彰化縣的未婚比例略高，但有偶比例明顯低於全台灣，離婚比例則顯著高於全台灣。"
+      },
+      {
+        "age_group": "35-39歲",
+        "unmarried_diff": {
+          "male_proportion_diff": 0.000485,
+          "female_proportion_diff": 0.000447
+        },
+        "married_diff": {
+          "male_proportion_diff": -0.004931,
+          "female_proportion_diff": -0.004286
+        },
+        "divorced_diff": {
+          "male_proportion_diff": 0.004446,
+          "female_proportion_diff": 0.003839
+        },
+        "note": "35-39歲年齡層，彰化縣的未婚比例差異不大，但有偶比例顯著低於全台灣，離婚比例則顯著高於全台灣。"
+      },
+      {
+        "age_group": "40-44歲",
+        "unmarried_diff": {
+          "male_proportion_diff": -0.000286,
+          "female_proportion_diff": -0.000339
+        },
+        "married_diff": {
+          "male_proportion_diff": -0.004088,
+          "female_proportion_diff": -0.003578
+        },
+        "divorced_diff": {
+          "male_proportion_diff": 0.004374,
+          "female_proportion_diff": 0.003917
+        },
+        "note": "40-44歲年齡層，彰化縣的未婚比例略低於全台灣，有偶比例顯著低於全台灣，離婚比例則顯著高於全台灣。"
+      },
+      {
+        "age_group": "45-49歲",
+        "unmarried_diff": {
+          "male_proportion_diff": -0.000786,
+          "female_proportion_diff": -0.000868
+        },
+        "married_diff": {
+          "male_proportion_diff": -0.003085,
+          "female_proportion_diff": -0.002659
+        },
+        "divorced_diff": {
+          "male_proportion_diff": 0.003871,
+          "female_proportion_diff": 0.003527
+        },
+        "note": "45-49歲年齡層，彰化縣的未婚比例略低於全台灣，有偶比例顯著低於全台灣，離婚比例則顯著高於全台灣。"
+      },
+      {
+        "age_group": "50-54歲",
+        "unmarried_diff": {
+          "male_proportion_diff": -0.000948,
+          "female_proportion_diff": -0.000997
+        },
+        "married_diff": {
+          "male_proportion_diff": -0.002211,
+          "female_proportion_diff": -0.001896
+        },
+        "divorced_diff": {
+          "male_proportion_diff": 0.003159,
+          "female_proportion_diff": 0.002893
+        },
+        "note": "50-54歲年齡層，彰化縣的未婚比例略低於全台灣，有偶比例顯著低於全台灣，離婚比例則顯著高於全台灣。"
+      },
+      {
+        "age_group": "55-59歲",
+        "unmarried_diff": {
+          "male_proportion_diff": -0.000876,
+          "female_proportion_diff": -0.000885
+        },
+        "married_diff": {
+          "male_proportion_diff": -0.001449,
+          "female_proportion_diff": -0.001215
+        },
+        "divorced_diff": {
+          "male_proportion_diff": 0.002325,
+          "female_proportion_diff": 0.0021
+        },
+        "note": "55-59歲年齡層，彰化縣的未婚比例略低於全台灣，有偶比例略低於全台灣，離婚比例則略高於全台灣。"
+      },
+      {
+        "age_group": "60-64歲",
+        "unmarried_diff": {
+          "male_proportion_diff": -0.000662,
+          "female_proportion_diff": -0.000647
+        },
+        "married_diff": {
+          "male_proportion_diff": -0.000709,
+          "female_proportion_diff": -0.000586
+        },
+        "divorced_diff": {
+          "male_proportion_diff": 0.001371,
+          "female_proportion_diff": 0.001233
+        },
+        "note": "60-64歲年齡層，彰化縣的未婚和有偶比例略低於全台灣，離婚比例則略高於全台灣。"
+      }
+    ]
+  }
+}
