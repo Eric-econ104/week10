@@ -1,0 +1,170 @@
+{
+  "年齡別": {
+    "Class": "Ordered Factor",
+    "Summary": {
+      "15-19歲": 1,
+      "20-24歲": 1,
+      "25-29歲": 1,
+      "30-34歲": 1,
+      "35-39歲": 1,
+      "40-44歲": 1,
+      "45-49歲": 1,
+      "50-54歲": 1,
+      "55-59歲": 1,
+      "60-64歲": 1,
+      "65-69歲": 1,
+      "70-74歲": 1,
+      "75-79歲": 1,
+      "80-84歲": 1,
+      "85-89歲": 1,
+      "90-94歲": 1,
+      "95-99歲": 1,
+      "100歲以上": 1
+    },
+    "NA_Proportion": 0
+  },
+  "未婚_男": {
+    "Class": "Numeric",
+    "Summary": {
+      "Mean": 8438.61111111111,
+      "Median": 2491,
+      "Standard_Deviation": 11565.1496722055,
+      "Max": 32451,
+      "Min": 2,
+      "Range": 32449,
+      "NA_Proportion": 0
+    }
+  },
+  "未婚_女": {
+    "Class": "Numeric",
+    "Summary": {
+      "Mean": 9237.27777777778,
+      "Median": 1935,
+      "Standard_Deviation": 13427.4083922605,
+      "Max": 37210,
+      "Min": 4,
+      "Range": 37206,
+      "NA_Proportion": 0
+    }
+  },
+  "未婚_男_比例": {
+    "Class": "Numeric",
+    "Summary": {
+      "Mean": 0.00848607222222222,
+      "Median": 0.002497,
+      "Standard_Deviation": 0.0115763745128095,
+      "Max": 0.037111,
+      "Min": 2e-06,
+      "Range": 0.037109,
+      "NA_Proportion": 0
+    }
+  },
+  "未婚_女_比例": {
+    "Class": "Numeric",
+    "Summary": {
+      "Mean": 0.00926738888888889,
+      "Median": 0.001493,
+      "Standard_Deviation": 0.0134276110996243,
+      "Max": 0.037301,
+      "Min": 4.01e-06,
+      "Range": 0.037297,
+      "NA_Proportion": 0
+    }
+  },
+  "有偶_男": {
+    "Class": "Numeric",
+    "Summary": {
+      "Mean": 10606.8333333333,
+      "Median": 4357,
+      "Standard_Deviation": 13336.4392221289,
+      "Max": 36260,
+      "Min": 9,
+      "Range": 36251,
+      "NA_Proportion": 0
+    }
+  },
+  "有偶_女": {
+    "Class": "Numeric",
+    "Summary": {
+      "Mean": 9639.33333333333,
+      "Median": 2456,
+      "Standard_Deviation": 12164.1696482265,
+      "Max": 31705,
+      "Min": 2,
+      "Range": 31703,
+      "NA_Proportion": 0
+    }
+  },
+  "有偶_男_比例": {
+    "Class": "Numeric",
+    "Summary": {
+      "Mean": 0.0106386111111111,
+      "Median": 0.004368,
+      "Standard_Deviation": 0.0133614944442825,
+      "Max": 0.036349,
+      "Min": 9.02e-06,
+      "Range": 0.03634,
+      "NA_Proportion": 0
+    }
+  },
+  "有偶_女_比例": {
+    "Class": "Numeric",
+    "Summary": {
+      "Mean": 0.00966833333333333,
+      "Median": 0.002462,
+      "Standard_Deviation": 0.0121786501427897,
+      "Max": 0.031883,
+      "Min": 2e-06,
+      "Range": 0.031881,
+      "NA_Proportion": 0
+    }
+  },
+  "離婚_男": {
+    "Class": "Numeric",
+    "Summary": {
+      "Mean": 1498.33333333333,
+      "Median": 111,
+      "Standard_Deviation": 2117.94450398588,
+      "Max": 6763,
+      "Min": 1,
+      "Range": 6762,
+      "NA_Proportion": 0
+    }
+  },
+  "離婚_女": {
+    "Class": "Numeric",
+    "Summary": {
+      "Mean": 1499.16666666667,
+      "Median": 82,
+      "Standard_Deviation": 2088.34337312041,
+      "Max": 6125,
+      "Min": 3,
+      "Range": 6122,
+      "NA_Proportion": 0
+    }
+  },
+  "離婚_男_比例": {
+    "Class": "Numeric",
+    "Summary": {
+      "Mean": 0.00150238888888889,
+      "Median": 0.000111,
+      "Standard_Deviation": 0.00212265702992924,
+      "Max": 0.00678,
+      "Min": 1e-06,
+      "Range": 0.006779,
+      "NA_Proportion": 0
+    }
+  },
+  "離婚_女_比例": {
+    "Class": "Numeric",
+    "Summary": {
+      "Mean": 0.00150261111111111,
+      "Median": 8.22e-05,
+      "Standard_Deviation": 0.00209208947888403,
+      "Max": 0.006141,
+      "Min": 3.01e-06,
+      "Range": 0.006138,
+      "NA_Proportion": 0
+    }
+  }
+}
